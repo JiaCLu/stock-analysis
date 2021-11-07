@@ -8,6 +8,8 @@ The purpose of the stock analysis is to click “Run Analysis” button in All S
 	
 This VBA challenge start with creating the new worksheet name “All Stocks Analysis” in the excel. In VBA challenge script, start activate the worksheet, create out arrays for ticker volumes, ticker starting prices, and ticker ending prices. As we can see the script below step by step refactoring my code successfully made the VBA script run faster. The results of this analysis run time and length of script is better than the original module project. The difference between module exercise and challenge analysis script is use only one iterator (i) where as module exercise use two iterators (i and j). Therefore, the run time for loop is much more higher than single iterator. 
 
+![Screen Shot 2021-11-07 at 3 56 04 PM](https://user-images.githubusercontent.com/92540198/140666762-78a55d02-5f1d-468e-92a0-c2a7829e8056.png)
+
 ## Summary
 	
 The advantages of refactoring code can minimize the run time, use shorten code, and easy to debug when encounter. The length of refactoring code is short which allow readers to follow though easily compare with the normal script. On the other hand, the disadvantages of refactoring when we have big size of application, and not having proper way of test cases for the codes.
